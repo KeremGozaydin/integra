@@ -25,15 +25,15 @@
     ]
 </script>
 
-<div class='page-footer'>
+<div class='page-footer flex flex-row justify-between px-6 items-center pb-2'>
+    <div class='text-center'>
+        <p>© 2024 INTEGRA 3646</p>
+    </div>
     <div class='flex flex-row gap-4 justify-center'>
         {#each socials as social}
             <a href={social.link} class='btn-icon'>
                 <Icon class='w-8 h-8' icon="{social.icon}" />
             </a>
         {/each}
-    </div>
-    <div class='text-center'>
-        <p>© 2024 INTEGRA 3646</p>
     </div>
 </div>
