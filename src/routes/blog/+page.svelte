@@ -1,1 +1,0 @@
-<div class='h-full grid place-items-center'>gelişmeler için takipte kalın!</div>

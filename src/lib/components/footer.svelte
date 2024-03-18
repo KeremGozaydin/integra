@@ -4,31 +4,28 @@
     let socials = [
         {
             name: 'Instagram',
-            link: 'https://www.instagram.com/integra3646',
+            link: 'https://www.instagram.com/integra_3646/',
             icon: 'mdi:instagram'
         },
         {
             name: 'Twitter',
-            link: 'https://www.twitter.com/integra3646',
+            link: 'https://twitter.com/FRC_Integra3646',
             icon: 'mdi:twitter'
         },
         {
             name: 'LinkedIn',
-            link: 'https://www.linkedin.com/company/integra3646',
+            link: 'https://www.linkedin.com/company/integra3646/about/',
             icon: 'mdi:linkedin'
         },
         {
             name: 'YouTube',
-            link: 'https://www.youtube.com/channel/UCjJ3H6P5Kk3xX5jZpC7Pz9A',
+            link: 'https://www.youtube.com/channel/UCi-x2OCIBbGx9_hlDSawa2A',
             icon: 'mdi:youtube'
         }
     ]
 </script>
 
-<div class='page-footer flex flex-row justify-between px-6 items-center pb-2'>
-    <div class='text-center'>
-        <p>© 2024 INTEGRA 3646</p>
-    </div>
+<div class='page-footer flex flex-row justify-center px-6 items-center pb-2 border-t-2 border-surface-700 py-2'>
     <div class='flex flex-row gap-4 justify-center'>
         {#each socials as social}
             <a href={social.link} class='btn-icon'>
