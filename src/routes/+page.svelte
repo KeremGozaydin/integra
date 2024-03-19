@@ -9,13 +9,13 @@
 	<div>
 		<h1 class='mb-8'>Biz kimiz?</h1>
 		<p>
-			lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+			Integra 2011'de İstanbul Bahçeşehir Fen ve Teknoloji Lisesi öğrencileri tarafından Türkiye'nin ilk FRC takımlarından biri olarak kuruldu.
 		</p>
 	</div>
 	<div>
 		<h1 class='mb-8'>Başarılarımız!</h1>
 		<p>
-			lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+			Integra kuruluşundan itibaren FRC robotik yarışmalarında büyük başarılara imza attı. Bütün aldığımız ödüllerin listesi için <a class='navbar-linkp' href='/basarilarimiz'>başarılarımız</a> sayfasına bakabilirsiniz.
 		</p>
 	</div>
 </div>
