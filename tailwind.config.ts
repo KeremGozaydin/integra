@@ -7,13 +7,7 @@ import { integra } from './src/integra'
 export default {
 	darkMode: 'class',
 	content: ['./src/**/*.{html,js,svelte,ts}', join(require.resolve('@skeletonlabs/skeleton'), '../**/*.{html,js,svelte,ts}')],
-	theme: {
-		screens: {
-		  'sm': '576px',
-		  'md': '960px',
-		  'lg': '1440px',
-		},
-	  },
+	theme: {},
 	plugins: [
 		typography,
 		skeleton({

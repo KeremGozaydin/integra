@@ -5,7 +5,7 @@
     <svelte:fragment slot="lead">
         <div class='pl-4 gap-3 flex flex-row justify-center items-center'>
             <a href='/'>
-                <img class='w-12 aspect-square' alt='integra' src='/Removal-141.png'/>
+                <img class='collapse sm:visible w-12 aspect-square' alt='integra' src='/Removal-141.png'/>
             </a>
             <nobr>Integra 3646</nobr>
         </div>

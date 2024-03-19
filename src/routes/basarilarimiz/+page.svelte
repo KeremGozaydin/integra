@@ -1,7 +1,7 @@
 <div class='pt-4 pb-8 w-full h-full flex flex-row flex-wrap justify-center items-center'>
     <h1>Başarılarımız!</h1>
     <div class='h-full w-full flex flex-col justify-center items-center'>
-        <div class='card flex flex-col gap-4 justify-center w-3/4 sm:w-1/2 p-6 rounded-md'>
+        <div class='card flex flex-col gap-4 justify-center w-3/4 md:w-1/2 p-6 rounded-md'>
             <div class='w-full'>
                 <img alt='integra' src='/integra3.jpeg' class='w-full grid place-items-center aspect-[12/9] bg-surface-50 text-black mb-2'/>
                 <div class='text-center italic text-sm text-surface-300'>Integra 3646 takım fotoğrafı!</div>
